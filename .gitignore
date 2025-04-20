@@ -1,0 +1,4 @@
+# Ignorar variáveis de ambiente
+server/.env
+server/node_modules
+client/node_modules
